@@ -26,6 +26,8 @@ The dataset from Kaggle was stored in an Azure Data Lake Gen2 Storage Account to
   - Writes the processed data back into Azure Data Lake Gen2 Storage Account
 - **Pipeline Monitoring:** Used Azure Monitor to run and monitor the ETL pipeline.
 
+[ETL Pipeline Image](https://github.com/akshmv/Spotify_Data_Analysis_Project/blob/main/ETL_Pipeline.png)
+
 ## Data Visualization
 The final output was visualized using PowerBI to derive insights and present the findings in an intuitive manner.
 
